@@ -6,3 +6,4 @@
 （想象一下遥控器按钮）
 但这一特性也导致对视障人士不友好
 一个新拟态网站：https://neumorphism.io
+![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
